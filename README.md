@@ -1,9 +1,6 @@
 # Socio-Economic-Trends-in-England-and-Wales
 Visual analysis of UK housing issues using census data (2011–2021), PCA/t-SNE, forecasting (Bayesian Ridge), and Tableau dashboards to explore patterns and predict trends for 2030.
 
-# Socio-Economic Trends in England and Wales (2011–2021)
-
-This project explores housing and socio-economic trends in England and Wales using UK Census data from 2011 and 2021. It includes data cleaning, merging, dimensionality reduction, and forecasting, with final results visualized using Tableau.
 
 ## Overview
 
